@@ -36,7 +36,7 @@ Este projeto implementa a geração de uma carteira de Bitcoin na rede de testes
     - O endereço gerado foi testado nos exploradores de blocos [BlockCypher](https://live.blockcypher.com/) e [BlockExplorer](https://blockexplorer.one/) para garantir que a carteira e o endereço funcionam corretamente na rede de testes.
 
 ```markdown
-![Blockexplorer.one - Historico de transações](src/assets/img/blockexplorer.one.png)
+![Blockexplorer.one - Historico de transações](./src/assets/img/blockexplorer.one.png)
 ```
 
 12. Se uso no processo de teste da carteira, a recepção de satoshis desde faucets de testnet para Bitcoin.
