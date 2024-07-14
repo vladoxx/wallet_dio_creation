@@ -69,3 +69,6 @@ Para inserir imagens no seu README.md, utilize o seguinte formato:
 ```
 
 Este projeto fornece uma maneira prática e segura de gerar carteiras de Bitcoin na rede de testes, facilitando o desenvolvimento e teste de aplicações relacionadas ao Bitcoin.
+
+![bobo](https://github.com/user-attachments/assets/8c9bcbda-ae05-4beb-80f0-86dee9bec3c0)
+
