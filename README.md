@@ -35,6 +35,7 @@ Este projeto implementa a geração de uma carteira de Bitcoin na rede de testes
 11. **Teste da Endereço em Exploradores de Blocos**:
     - O endereço gerado foi testado nos exploradores de blocos [BlockCypher](https://live.blockcypher.com/) e [BlockExplorer](https://blockexplorer.one/) para garantir que a carteira e o endereço funcionam corretamente na rede de testes.
 
+### Blockexplorer.one - Historico de transações
 ![Blockexplorer.one - Historico de transações](https://github.com/user-attachments/assets/a7d51a94-141e-471a-882d-14ceb86546ff)
 
 12. Se uso no processo de teste da carteira, a recepção de satoshis desde faucets de testnet para Bitcoin.
@@ -52,14 +53,13 @@ Para importar a carteira gerada e testar o endereço:
    - Acesse [BlockCypher](https://live.blockcypher.com/) ou [BlockExplorer](https://blockexplorer.one/).
    - Insira o endereço gerado no campo de busca para verificar a existência e detalhes do endereço na rede de testes.
 
-### Formato para Inserir Fotos em Markdown
-
-Para inserir imagens no seu README.md, utilize o seguinte formato:
-
+### Carteira Electrum - BTC Recebidos de faucet
 ![Carteira Electrum - BTC Recebidos de faucet](https://github.com/user-attachments/assets/110b9052-6a1d-44b6-b203-e09e23f99aab)
 
+### Carteira Electrum - BTC enviados como teste
 ![Carteira Electrum - BTC enviados como teste](https://github.com/user-attachments/assets/9ac40802-b226-41d0-a8c9-8f40ea708256)
 
+### Carteira Electrum - Historico de transações
 ![Carteira Electrum - Historico de transações](https://github.com/user-attachments/assets/a3912f8c-39de-4997-97b3-9619d30bce11)
 
 Este projeto fornece uma maneira prática e segura de gerar carteiras de Bitcoin na rede de testes, facilitando o desenvolvimento e teste de aplicações relacionadas ao Bitcoin.
