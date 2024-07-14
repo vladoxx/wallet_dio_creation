@@ -1,0 +1,11 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+
+# Otros ejemplos comunes
+.vscode/
